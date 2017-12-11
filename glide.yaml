@@ -1,0 +1,4 @@
+package: github.com/pigeon
+import:
+- package: github.com/gorilla/rpc
+- package: github.com/tucnak/telebot

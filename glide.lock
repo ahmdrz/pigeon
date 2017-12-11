@@ -1,0 +1,14 @@
+hash: 1e2eda99c0d6227402fb2a087be6acae43d28101f75ff68b26c32efd37ea3ab6
+updated: 2017-12-11T17:04:01.799804703+03:30
+imports:
+- name: github.com/gorilla/rpc
+  version: 22c016f3df3febe0c1f6727598b6389507e03a18
+  subpackages:
+  - json
+- name: github.com/mitchellh/hashstructure
+  version: 2bca23e0e452137f789efbc8610126fd8b94f73b
+- name: github.com/pkg/errors
+  version: 8842a6e0cc595d1cc9d931f6c875883967280e32
+- name: github.com/tucnak/telebot
+  version: b831116da37eff9261ac566da630af8ec7881b03
+testImports: []
